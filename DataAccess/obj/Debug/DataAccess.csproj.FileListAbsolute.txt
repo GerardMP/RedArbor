@@ -1,0 +1,5 @@
+C:\Users\Gerard\documents\visual studio 2017\Projects\WebApiTest1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gerard\documents\visual studio 2017\Projects\WebApiTest1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gerard\documents\visual studio 2017\Projects\WebApiTest1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Gerard\documents\visual studio 2017\Projects\WebApiTest1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gerard\documents\visual studio 2017\Projects\WebApiTest1\DataAccess\obj\Debug\DataAccess.pdb

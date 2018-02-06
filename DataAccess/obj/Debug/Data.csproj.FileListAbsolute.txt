@@ -1,0 +1,14 @@
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\WebApiTest1\DataAccess\bin\Debug\Data.dll
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\WebApiTest1\DataAccess\bin\Debug\Data.pdb
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\WebApiTest1\DataAccess\bin\Debug\log4net.dll
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\WebApiTest1\DataAccess\bin\Debug\log4net.xml
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\WebApiTest1\DataAccess\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\WebApiTest1\DataAccess\obj\Debug\Data.dll
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\WebApiTest1\DataAccess\obj\Debug\Data.pdb
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\RedArbor\DataAccess\bin\Debug\log4net.dll
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\RedArbor\DataAccess\bin\Debug\log4net.xml
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\RedArbor\DataAccess\bin\Debug\RedArbor.Data.dll
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\RedArbor\DataAccess\bin\Debug\RedArbor.Data.pdb
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\RedArbor\DataAccess\obj\Debug\RedArbor.Data.dll
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\RedArbor\DataAccess\obj\Debug\RedArbor.Data.pdb
+C:\Users\Gerard\Documents\Visual Studio 2017\Projects\RedArbor\DataAccess\obj\Debug\Data.csprojResolveAssemblyReference.cache
